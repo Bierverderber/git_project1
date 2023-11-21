@@ -1,4 +1,4 @@
-def main():
+def main():     # New day — new print
     print('My first git program')
     print('And I change it every day')
 
